@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace Desktop_POC_Application
+namespace DesktopPOCApplication
 {
     public class Program
     {

@@ -1,8 +1,8 @@
 ﻿<maui:MauiWinUIApplication
-    x:Class="Desktop_POC_Application.WinUI.App"
+    x:Class="DesktopPOCApplication.WinUI.App"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:maui="using:Microsoft.Maui"
-    xmlns:local="using:Desktop_POC_Application.WinUI">
+    xmlns:local="using:DesktopPOCApplication.WinUI">
 
 </maui:MauiWinUIApplication>

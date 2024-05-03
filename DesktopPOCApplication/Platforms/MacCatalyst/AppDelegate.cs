@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace Desktop_POC_Application
+namespace DesktopPOCApplication
 {
     [Register("AppDelegate")]
     public class AppDelegate : MauiUIApplicationDelegate

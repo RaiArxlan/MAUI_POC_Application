@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
 
-namespace Desktop_POC_Application
+namespace DesktopPOCApplication
 {
     public static class MauiProgram
     {

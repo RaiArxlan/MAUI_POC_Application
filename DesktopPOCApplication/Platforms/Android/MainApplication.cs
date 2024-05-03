@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace Desktop_POC_Application
+namespace DesktopPOCApplication
 {
     [Application]
     public class MainApplication : MauiApplication

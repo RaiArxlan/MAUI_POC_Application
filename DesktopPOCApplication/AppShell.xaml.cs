@@ -1,4 +1,4 @@
-﻿namespace Desktop_POC_Application
+﻿namespace DesktopPOCApplication
 {
     public partial class AppShell : Shell
     {
